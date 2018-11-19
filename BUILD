@@ -1,0 +1,1 @@
+sh_binary(name = "shell_build", srcs = ["shell_build.sh"])
